@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='d2sm_pytorch',
+    name='d2sm',
     version='latest',
     description='Deep Semantic Statistics Matching w/ PyTorch',
     packages=find_packages(exclude=('tests', 'doc')),
